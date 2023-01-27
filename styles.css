@@ -52,6 +52,7 @@ ul {
 }
 
 .hero {
+    position: relative;
     background-color: #1F2937;
     padding: 0px 10%;
     margin: 90px 0;
